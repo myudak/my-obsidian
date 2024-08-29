@@ -4,6 +4,8 @@ Tags :  [[Kuliah]]
 
 - Dasar Sistem
     - [ ]  Mengerjakan soal halaman 34 nomor 1.9 - 1.19 dan halaman 36 nomor 1.23 - 1.25
+- Aljabar Linier
+    - [ ]  Kuis Vektor
 - Bahasa Inggris
     - [x]  Mengerjakan subtes General English Subscription: Connected General English → A2 Elementary → Unit 11: Feeling Awful → 1 - 9 bagian
 - Bahasa Indonesia
